@@ -1,1 +1,1 @@
-[{"title":"Test note ","text":"placeholder","id":1}]
+[{"title":"Starter Note","text":"Default stored note. You can view, create, or delete notes. adding \"/api/notes\" to the end of the link will allow you to view all saved notes, return as json data. Happy note taking!","id":1}]
