@@ -25,7 +25,7 @@
 > Navigate to the site try taking some notes!
 
 ## Contributions
-> If you would like to contribute to this program, please contact me using the information listed under the "Questions" section.
+> If you would like to contribute to this application, please contact me using the information listed under the "Questions" section.
 
 ## Questions
 To reach me with additional questions:
