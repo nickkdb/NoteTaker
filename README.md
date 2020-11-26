@@ -16,7 +16,7 @@
 > This project allows the user to easily take and save notes for easy access. The user can view their notes, add new ones, or delete previously taken notes. All notes are saved to a json file and displayed to the user upon request.
 
 ## Installation
-> No installation needed! Visit the deployed application on heroku at this link: . If you prefer to run locally, clone this repo and run through the browser of your choosing.
+> No installation needed! Visit the deployed application on Heroku [here](https://sheltered-spire-11052.herokuapp.com/). If you prefer to run locally, clone this repo and run through the browser of your choosing.
 
 ## Usage
 > To use locally, run "node server.js" on your terminal to start the server up, and navigate to the localhost address that was console logged. Once on the site (locally or deployed) click the "get started" button to begin taking/editing notes! Upon your first visit, a test note will be present that you could view for further instruction.
