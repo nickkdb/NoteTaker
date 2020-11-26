@@ -22,10 +22,10 @@
 > To use locally, run "node server.js" on your terminal to start the server up, and navigate to the localhost address that was console logged. Once on the site (locally or deployed) click the "get started" button to begin taking/editing notes! Upon your first visit, a test note will be present that you could view for further instruction.
 
 ## Testing
-> Navigate to the site try taking some notes!
+> Navigate to the site and try taking some notes!
 
 ## Contributions
-> If you would like to contribute to this program, please contact me using the information listed under the "Questions" section.
+> If you would like to contribute to this application, please contact me using the information listed under the "Questions" section.
 
 ## Questions
 To reach me with additional questions:
